@@ -6,12 +6,12 @@ export const personalData = {
   email: 'kundan.kumar.b11@gmail.com',
   phone: '+91 6200886475',
   address: 'Indira Vikash colony, Mukharjee Nagar, New Delhi,  110009',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  github: 'https://github.com/Nukealbert',
+  facebook: '',
+  linkedIn: 'https://www.linkedin.com/in/developerkundankumar/',
+  twitter: '',
+  stackOverflow: '',
+  leetcode: "",
+  devUsername: "",
+  resume: ""
 }
